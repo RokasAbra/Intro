@@ -1,0 +1,2 @@
+# Intro
+Javascript pradzia
